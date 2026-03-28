@@ -1,7 +1,7 @@
 # GitHub On-Prem → Cloud Migration
 
 > Migrating repositories across engineering teams from GitHub Enterprise Server (GHES) to GitHub Cloud (EMU).
-> **Program Lead:** [Your Name] | **Status:** Phase 1 of 3 | **Target:** Q3 2025
+> **Program Lead:** [Rachna Singh] | **Status:** Phase 1 of 3 | **Target:** Q3 2026
 
 [![Phase](https://img.shields.io/badge/Phase-1%20of%203-blue)]()
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
