@@ -2,7 +2,7 @@
 
 All major milestones, decisions, and program changes are documented here.
 
-Format: `[YYYY-MM-DD] — Description (Author)`
+Format: `[2026-03-28] — Description (Rachna Singh)`
 
 ---
 
