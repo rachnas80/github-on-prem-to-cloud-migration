@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets — never commit these
+*.env
+.env*
+secrets/
+*.key
+*.pem
+
+# Migration artifacts (contain sensitive data)
+migrate.sh
+*-migration-log.txt
+gei-output/
+
+# Editor
+.vscode/
+.idea/
+*.swp
